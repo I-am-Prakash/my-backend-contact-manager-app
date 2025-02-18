@@ -1,3 +1,4 @@
-/node_modules
-.env
-/.git
+*.git # not required though - This will handled by git automatically
+
+node_modules/
+*.env
